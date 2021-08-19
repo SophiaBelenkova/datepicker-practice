@@ -1,0 +1,23 @@
+.sj{
+    height: 60px;
+}
+body{
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+    display: flex;
+}
+.websitename{
+    font-family: "Poppins", sans-serif;
+    color:#426696;
+    padding-left: 25px;
+}
+.glass{
+    background: white;
+    min-width: 300px;
+    background: linear-gradient(to right bottom, 
+    rgba(255, 255, 255, 0.7),
+      rgba(255, 255, 255, 0.3));
+      border-radius: 2rem;
+      z-index: 2;
+      backdrop-filter: blur(2rem);
+      display: flex;
+  }
